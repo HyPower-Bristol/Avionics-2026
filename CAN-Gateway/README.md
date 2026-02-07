@@ -21,6 +21,7 @@ For more detailed information on CAN buses, arbitration, and heartbeats, visit t
 |       MCP2562T-E/SN        | https://docs.rs-online.com/79e9/0900766b8166f58d.pdf                                                              | High-speed CAN transceiver     |
 |    CP2102N-A02-GQFN20R     | https://docs.rs-online.com/eddc/A700000006416765.pdf                                                              | USB to UART bridge             |
 |        W25Q128JVSIQ        | https://docs.rs-online.com/cdee/0900766b81622f85.pdf                                                              | 128MB flash with dual/quad SPI |
+
 DC-3's CAN Gateway uses the TMS320F280049 / F280049PMS microcontroller from Texas Instruments with two internal 10MHz crystal oscillators. Additional components/features of microcontroller added to the board are listed as follows:
 - An external 20MHz crystal oscillator
 - 2 CAN bus ports (1Mbps bi-directional communication)
@@ -48,6 +49,7 @@ DC-3's CAN Gateway uses the TMS320F280049 / F280049PMS microcontroller from Texa
 |   CMP-002-00156-7   | N/A                                                                                      | 6-pin header for GPIO (Only 4 available) |
 |   CMP-002-00160-6   | N/A                                                                                      | 3-pin header for reserve LV CAN          |
 |   CMP-002-00161-7   | N/A                                                                                      | 2-pin header for reserve power           |
+
 A micro-USB receptacle and JTAG connector are available on the board for debugging. 
 
 During ground operations, GS CAN will be linked to the female connector which is in turn connected to a magnetic connector on the side of the rocket. There is no additional connectivity to GS CAN should this connector fail. However, communication to onboard systems will be maintained via LoRa.
@@ -62,4 +64,5 @@ The CAN Gateway is designed to interface with LV CAN and LoRa via a 20-pin edge 
 | PMEG2020CPASX | https://www.lcsc.com/datasheet/C552837.pdf           | 1 Pair common cathode schottky diode  |
 |  AMS1117-3.3  | https://www.lcsc.com/datasheet/C347222.pdf           | 1A 3.3V Low-dropout voltage regulator |
 | TSC016A04518A | https://www.lcsc.com/datasheet/C2888493.pdf          | Tactile switch (button) for MCU reset |
+
 CAN Gateway requires a 5V power supply from either the micro USB port, 2-pin header, or the 20-pin edge connector. Part of this supply will be used by the CAN transceivers, while remaining power passes through a 3.3V low-dropout voltage regulator and is distributed across the board.
