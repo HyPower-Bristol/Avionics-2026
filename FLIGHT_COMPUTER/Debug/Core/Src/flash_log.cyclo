@@ -1,0 +1,9 @@
+../Core/Src/flash_log.c:20:6:FlashLog_Init	7
+../Core/Src/flash_log.c:41:14:FlashLog_Prep	6
+../Core/Src/flash_log.c:58:9:FlashLog_SetActive	1
+../Core/Src/flash_log.c:59:9:FlashLog_IsActive	1
+../Core/Src/flash_log.c:60:10:FlashLog_BytesUsed	1
+../Core/Src/flash_log.c:63:6:FlashLog_Write	4
+../Core/Src/flash_log.c:79:6:FlashLog_Flush	3
+../Core/Src/flash_log.c:89:13:emit	1
+../Core/Src/flash_log.c:95:6:FlashLog_Dump	8

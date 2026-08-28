@@ -1,0 +1,6 @@
+../Core/Src/ads_helper.c:6:9:PTAM_SPITransfer	6
+../Core/Src/ads_helper.c:23:6:PTAM_syncpin	1
+../Core/Src/ads_helper.c:28:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/ads_helper.c:38:6:ADS_CSPin	1
+../Core/Src/ads_helper.c:44:7:ADCmVToBar	1
+../Core/Src/ads_helper.c:50:6:initADS	2

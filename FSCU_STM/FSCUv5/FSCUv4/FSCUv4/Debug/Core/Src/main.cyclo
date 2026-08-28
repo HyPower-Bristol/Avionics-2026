@@ -1,0 +1,17 @@
+../Core/Src/main.c:283:6:HAL_CAN_RxFifo0MsgPendingCallback	3
+../Core/Src/main.c:396:5:main	9
+../Core/Src/main.c:643:6:SystemClock_Config	3
+../Core/Src/main.c:685:13:MX_CAN2_Init	2
+../Core/Src/main.c:723:13:MX_I2C1_Init	2
+../Core/Src/main.c:757:13:MX_I2C3_Init	2
+../Core/Src/main.c:791:13:MX_SPI1_Init	2
+../Core/Src/main.c:829:13:MX_SPI2_Init	2
+../Core/Src/main.c:867:13:MX_SPI3_Init	2
+../Core/Src/main.c:905:13:MX_TIM2_Init	9
+../Core/Src/main.c:976:13:MX_TIM3_Init	9
+../Core/Src/main.c:1047:13:MX_TIM4_Init	7
+../Core/Src/main.c:1111:13:MX_TIM8_Init	4
+../Core/Src/main.c:1155:13:MX_DMA_Init	1
+../Core/Src/main.c:1201:13:MX_GPIO_Init	1
+../Core/Src/main.c:1289:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:1307:6:Error_Handler	1

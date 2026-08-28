@@ -1,0 +1,15 @@
+../Core/Src/gnss_ublox.c:37:17:ring_used	1
+../Core/Src/gnss_ublox.c:42:13:ring_push	3
+../Core/Src/gnss_ublox.c:50:12:ring_pop	2
+../Core/Src/gnss_ublox.c:59:13:ubx_send	4
+../Core/Src/gnss_ublox.c:87:13:vs_u1	1
+../Core/Src/gnss_ublox.c:94:13:vs_u2	1
+../Core/Src/gnss_ublox.c:101:13:vs_u4	1
+../Core/Src/gnss_ublox.c:110:13:send_valset_baud	1
+../Core/Src/gnss_ublox.c:123:13:send_valset_navconfig	1
+../Core/Src/gnss_ublox.c:166:13:process_pvt	4
+../Core/Src/gnss_ublox.c:196:13:ubx_parse_byte	20
+../Core/Src/gnss_ublox.c:240:6:HAL_UARTEx_RxEventCallback	2
+../Core/Src/gnss_ublox.c:251:6:HAL_UART_ErrorCallback	2
+../Core/Src/gnss_ublox.c:259:6:GNSS_UBX_Init	1
+../Core/Src/gnss_ublox.c:271:6:GNSS_UBX_Update	7

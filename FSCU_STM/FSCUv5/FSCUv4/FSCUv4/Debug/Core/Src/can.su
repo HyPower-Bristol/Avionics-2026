@@ -1,0 +1,2 @@
+../Core/Src/can.c:10:6:InitDefaultCANHeader	16	static
+../Core/Src/can.c:19:6:applyHeaderID	16	static

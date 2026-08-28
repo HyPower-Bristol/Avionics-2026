@@ -1,0 +1,5 @@
+../Core/Src/bno055.c:19:22:w8	1
+../Core/Src/bno055.c:26:16:r8	1
+../Core/Src/bno055.c:34:15:BNO055_Init	7
+../Core/Src/bno055.c:75:15:BNO055_ReadEuler	2
+../Core/Src/bno055.c:91:6:BNO055_ReadCalib	1

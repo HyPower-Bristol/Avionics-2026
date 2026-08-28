@@ -1,0 +1,13 @@
+../Core/Src/s25fl512s.c:23:20:cs_low	16	static
+../Core/Src/s25fl512s.c:24:20:cs_high	16	static
+../Core/Src/s25fl512s.c:30:21:xfer	40	static
+../Core/Src/s25fl512s.c:58:21:cmd_only	24	static
+../Core/Src/s25fl512s.c:63:9:S25FL_ReadStatus1	32	static
+../Core/Src/s25fl512s.c:70:21:wait_ready	24	static
+../Core/Src/s25fl512s.c:82:13:addr4	24	static
+../Core/Src/s25fl512s.c:91:14:S25FL_Init	40	static
+../Core/Src/s25fl512s.c:132:14:S25FL_Read	40	static
+../Core/Src/s25fl512s.c:140:21:program_page	40	static
+../Core/Src/s25fl512s.c:154:14:S25FL_Write	40	static
+../Core/Src/s25fl512s.c:172:14:S25FL_EraseSector	32	static
+../Core/Src/s25fl512s.c:187:14:S25FL_SelfTest	32	static

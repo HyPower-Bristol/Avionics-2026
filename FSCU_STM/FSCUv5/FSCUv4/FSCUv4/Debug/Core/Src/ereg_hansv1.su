@@ -1,0 +1,6 @@
+../Core/Src/ereg_hansv1.c:51:13:rate_scheduler	4	static
+../Core/Src/ereg_hansv1.c:59:8:look1_binlcpw	72	static
+../Core/Src/ereg_hansv1.c:85:8:rt_powd_snf	64	static
+../Core/Src/ereg_hansv1.c:117:6:ereg_hansv1_step	128	static
+../Core/Src/ereg_hansv1.c:316:6:ereg_hansv1_initialize	4	static
+../Core/Src/ereg_hansv1.c:330:6:ereg_hansv1_terminate	4	static

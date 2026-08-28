@@ -1,0 +1,5 @@
+../Core/Src/bmp585.c:5:22:reg_read	40	static
+../Core/Src/bmp585.c:13:22:reg_write	32	static
+../Core/Src/bmp585.c:21:15:BMP585_ScanI2C	24	static
+../Core/Src/bmp585.c:33:15:BMP585_Init	32	static
+../Core/Src/bmp585.c:102:15:BMP585_ReadData	32	static

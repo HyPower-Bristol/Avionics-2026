@@ -1,0 +1,14 @@
+../Core/Src/sx1262.c:40:22:busy_wait	3
+../Core/Src/sx1262.c:52:22:cmd	5
+../Core/Src/sx1262.c:72:22:write_reg	1
+../Core/Src/sx1262.c:79:22:read_reg	1
+../Core/Src/sx1262.c:89:15:SX1262_GetStatus	1
+../Core/Src/sx1262.c:98:15:SX1262_GetErrors	1
+../Core/Src/sx1262.c:107:22:get_irq	1
+../Core/Src/sx1262.c:116:22:clear_irq	1
+../Core/Src/sx1262.c:122:22:set_packet_len	1
+../Core/Src/sx1262.c:129:15:SX1262_Init	23
+../Core/Src/sx1262.c:253:15:SX1262_Transmit	11
+../Core/Src/sx1262.c:289:15:SX1262_StartRx	2
+../Core/Src/sx1262.c:298:15:SX1262_TestCW	3
+../Core/Src/sx1262.c:311:6:SX1262_CheckRx	11

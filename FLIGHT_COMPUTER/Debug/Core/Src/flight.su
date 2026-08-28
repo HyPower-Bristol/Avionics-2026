@@ -1,0 +1,6 @@
+../Core/Src/flight.c:25:14:pa_to_agl	16	static
+../Core/Src/flight.c:31:6:Flight_Enable	16	static
+../Core/Src/flight.c:46:6:Flight_Disable	8	static
+../Core/Src/flight.c:53:6:Flight_IsActive	4	static
+../Core/Src/flight.c:57:13:deploy	16	static
+../Core/Src/flight.c:63:6:Flight_Update	48	static

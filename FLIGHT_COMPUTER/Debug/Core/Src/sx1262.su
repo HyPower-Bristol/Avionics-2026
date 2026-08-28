@@ -1,0 +1,14 @@
+../Core/Src/sx1262.c:40:22:busy_wait	24	static
+../Core/Src/sx1262.c:52:22:cmd	40	static
+../Core/Src/sx1262.c:72:22:write_reg	24	static
+../Core/Src/sx1262.c:79:22:read_reg	40	static
+../Core/Src/sx1262.c:89:15:SX1262_GetStatus	24	static
+../Core/Src/sx1262.c:98:15:SX1262_GetErrors	32	static
+../Core/Src/sx1262.c:107:22:get_irq	32	static
+../Core/Src/sx1262.c:116:22:clear_irq	24	static
+../Core/Src/sx1262.c:122:22:set_packet_len	24	static
+../Core/Src/sx1262.c:129:15:SX1262_Init	128	static
+../Core/Src/sx1262.c:253:15:SX1262_Transmit	176	static
+../Core/Src/sx1262.c:289:15:SX1262_StartRx	24	static
+../Core/Src/sx1262.c:298:15:SX1262_TestCW	24	static
+../Core/Src/sx1262.c:311:6:SX1262_CheckRx	320	static
